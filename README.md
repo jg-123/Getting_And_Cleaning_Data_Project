@@ -1,4 +1,4 @@
-Getting and Cleaning Data Course Project ReadMe
+##Getting and Cleaning Data Course Project ReadMe
 ===============================================
 
 This is the ReadMe file for the Coursera Getting and Cleaning Data course project. 
@@ -14,6 +14,7 @@ This is the ReadMe file for the Coursera Getting and Cleaning Data course projec
 
 * Download the UCI HAR Dataset from (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 * Unzip the UCI HAR Dataset folder into your R working directory. Set the working directory using the setwd() command or the session menu in R studio.
+* Download the final output file "tidy_dataset.txt" (https://github.com/jg-123/Getting_And_Cleaning_Data_Project/blob/master/tidy_dataset.txt) if desired.
 * Use the command tidy_dataset<-read.table("tidy_dataset.txt", header=TRUE) to manually read in the final tidy output dataset from this repository if you do not want to run the run_analysis.R script.
 * Place run_analysis.R into your working directory and source it to have the script create the final output dataset if desired.
 
