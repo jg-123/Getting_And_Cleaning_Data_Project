@@ -20,5 +20,5 @@ This is the ReadMe file for the Coursera Getting and Cleaning Data course projec
 
 ###Codebook
 
-* Also provided in this repository is a Codebook.md file which contains the descriptions and units of all the data in the provided tidy dataset and all of the required transformations to create this data from the original UCI dataset.
+* Also provided in this repository is a "Codebook.md" (https://github.com/jg-123/Getting_And_Cleaning_Data_Project/blob/master/Codebook.md) file which contains the descriptions and units of all the data in the provided tidy dataset and all of the required transformations to create this data from the original UCI dataset.
 * The final tidy dataset contains 180 rows (30 subjects and 6 activities, so 180 total rows which also contain the relevant mean and standard deviation data for those subject/activity combinations) and 88 variables (all columns from the original dataset which contained the words "mean" and "std" were extracted for a total of 86, plus the subject and activity for 88)
